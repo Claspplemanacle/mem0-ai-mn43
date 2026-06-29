@@ -1,4 +1,4 @@
-# 
+# Profissional Mem0 scripts. Com controle de versão e execução de código — otimizado para máximo desempenho e eficiência.
 
 
 
